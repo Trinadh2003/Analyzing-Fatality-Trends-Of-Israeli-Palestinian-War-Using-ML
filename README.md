@@ -1,0 +1,1 @@
+# Analyzing-Fatality-Trends-Of-Israeli-Palestinian-War-Using-ML
